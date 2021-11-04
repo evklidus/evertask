@@ -1,6 +1,6 @@
 # evertask
 
-A new Flutter project.
+TO-DO app
 
 ## Getting Started
 
